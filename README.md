@@ -7,14 +7,19 @@
 - 📫 contacts:
 - Discord: 
   >juancitocubo#0001 
+  
 - Mail:
   >support@juancitocubo.com 
+  
 - Youtube:
   >[juancitocubo:](https://www.youtube.com/c/juancitocubo/) 
+  
 - Discord:
   >[Discord | juancitocubo:](https://discord.gg/WB7ZeaChNw) 
+  
 - Donate:
   >[Paypal](https://paypal.me/juancitocubo) 
+  
 - Instagram:
   >[Instagram](https://www.instagram.com/juancitocubo/) 
 - Reddit:
