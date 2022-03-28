@@ -6,24 +6,24 @@
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
 - 💬 Languages: Spanish And English
 - 📫 contacts:
-  - Discord:
+- Discord:
   >juancitocubo#0001
-  - Mail:
+- Mail:
   >support@juancitocubo.com
-  - Youtube:
+- Youtube:
   >[juancitocubo:](https://www.youtube.com/c/juancitocubo/)
-  - Discord:
+- Discord:
   >[Discord | juancitocubo:](https://discord.gg/WB7ZeaChNw)
-  - Donate:
+- Donate:
   >[Paypal](https://paypal.me/juancitocubo)
-  - Instagram:
+- Instagram:
   >[Instagram](https://www.instagram.com/juancitocubo/)
-  - Reddit:
+- Reddit:
   >[Reddit](https://www.reddit.com/user/juancitocubo)
-  - Steam:
+- Steam:
   >[Steam](https://steamcommunity.com/id/juancitocubo/)
-  - Donate:
+- Donate:
   >[Paypal](https://paypal.me/juancitocubo)
-  - Donate:
+- Donate:
   >[Paypal](https://paypal.me/juancitocubo)
   
