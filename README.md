@@ -20,4 +20,4 @@ Hi, I'm juancitocubo, Owner and dev in Mc Servers.
 
 
 
-[![SAPE](https://github-readme-stats.vercel.app/api?username=juancitocubo)](https://github.com/anuraghazra/github-readme-stats)
+[![juancitocubo](https://github-readme-stats.vercel.app/api?username=juancitocubo)]
