@@ -5,8 +5,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" />
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
 - 💬 Languages: Spanish And English
-- 📫 contactos:
-  
+- 📫 contacts:
   - Discord:
   >juancitocubo#0001
   - Mail:
