@@ -1,5 +1,4 @@
-Hi, I'm juancitocubo, Owner and dev in Mc Servers.
-<h1>Hola Soy juancitocubo.</h1>
+<h1>Hi, I'm juancitocubo, Owner and dev in Mc Servers.</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juancitocubo""></p>
 
