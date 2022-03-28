@@ -7,20 +7,24 @@
 - 💬 Languages: Spanish And English
 - 📫 contactos:
   
-  - Discord
+  - Discord:
   >juancitocubo#0001
-  - Mail
+  - Mail:
   >support@juancitocubo.com
-  - Youtube
-  >support@juancitocubo.com
-  - Discord 
+  - Youtube:
+  >[juancitocubo:](https://www.youtube.com/c/juancitocubo/)
+  - Discord:
   >[Discord | juancitocubo:](https://discord.gg/WB7ZeaChNw)
- 
-
-Paypal Donate: https://paypal.me/juancitocubo
-Youtube: https://www.youtube.com/c/juancitocubo/
-Instagram: https://www.instagram.com/juancitocubo/
-Reddit: https://www.reddit.com/user/juancitocubo
-Steam: https://steamcommunity.com/id/juancitocubo/
-Github: https://github.com/juancitocubo
-Mail: juancitocubo@protonmail.com
+  - Donate:
+  >[Paypal](https://paypal.me/juancitocubo)
+  - Instagram:
+  >[Instagram](https://www.instagram.com/juancitocubo/)
+  - Reddit:
+  >[Reddit](https://www.reddit.com/user/juancitocubo)
+  - Steam:
+  >[Steam](https://steamcommunity.com/id/juancitocubo/)
+  - Donate:
+  >[Paypal](https://paypal.me/juancitocubo)
+  - Donate:
+  >[Paypal](https://paypal.me/juancitocubo)
+  
