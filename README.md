@@ -19,4 +19,5 @@ Hi, I'm juancitocubo, Owner and dev in Mc Servers.
 <img src="https://discordapp.com/api/guilds/901913159173025873/widget.png" alt="juancitocubo" /> </p>
 
 
-<p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&theme=light"></p>
+
+[![SAPE](https://github-readme-stats.vercel.app/api?username=juancitocubo)](https://github.com/anuraghazra/github-readme-stats)
