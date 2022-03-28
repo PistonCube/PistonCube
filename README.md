@@ -2,8 +2,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juancitocubo""></p>
 <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" />
+  
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
+  
 - 💬 Languages: Spanish And English
+  
 - 📫 contacts:
 - Discord: 
   >juancitocubo#0001 
