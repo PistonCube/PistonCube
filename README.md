@@ -10,7 +10,7 @@ Hi, I'm juancitocubo, Owner and dev in Mc Servers.
 - 📫 contactos:
   
   - Discord
-  >
+  >juancitocubo#0001
   - Mail
   >support@juancitocubo.com
 
