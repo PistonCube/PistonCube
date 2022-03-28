@@ -2,7 +2,7 @@ Hi, I'm juancitocubo, Owner and dev in Mc Servers.
 <h1>Hola Soy juancitocubo.</h1>
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&theme=light"></p>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BringFeel&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanciocubo&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 
 - 🔭 Actualmente estoy trabajando en mi vida
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
