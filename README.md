@@ -13,8 +13,4 @@
 
   info
   <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" />
-<img src="https://discordapp.com/api/guilds/901913159173025873/widget.png" alt="juancitocubo" /> </p>
 
-
-
-[juancitocubo](https://github-readme-stats.vercel.app/api?username=juancitocubo)
