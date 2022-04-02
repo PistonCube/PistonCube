@@ -1,7 +1,14 @@
 <h1>Hi, I'm juancitocubo, Owner and dev in Mc Servers.</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juancitocubo""></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juancitocubo""></p>
 <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" />
+  ---
+  <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" /> </p>
+<p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&theme=dark"></p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juancitocubo&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
+<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
+--
   
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
   
