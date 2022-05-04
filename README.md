@@ -13,7 +13,7 @@
   
 - 📫 contacts:
 - Discord: 
-  >juancitocubo#0001 
+  >juancitocubo#0833
   
 - Mail:
   >support@juancitocubo.com 
