@@ -1,4 +1,5 @@
 <h1>Hi, my name is Ezequiel alias juancitocubo</h1>
+I'M JUANCITOCUBO, THAT OWNER, DEV AND YOUTUBER WHO MAKES VIDEOS ABOUT ANARCHY SERVERS AND OTHER MADNESS OF THE MINECRAFT WORLD. (I WON'T BE THE BEST AT CODING.)
 
   <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" /> </p>
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&theme=dark"></p>
