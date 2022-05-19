@@ -1,4 +1,4 @@
-<h1>Hi, I'm juancitocubo, Owner and dev in Mc Servers.</h1>
+<h1>Hi, my name is Ezequiel alias juancitocubo</h1>
 
   <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" /> </p>
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&theme=dark"></p>
