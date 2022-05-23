@@ -8,7 +8,7 @@ I'M JUANCITOCUBO, THAT OWNER, DEV AND YOUTUBER WHO MAKES VIDEOS ABOUT ANARCHY SE
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
   
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
-- 🌐 My Hosting: [https://client.juancitocubo.com/](https://client.juancitocubo.com/)
+- 🌐 My Hosting: [https://sprintnodes.com/](https://sprintnodes.com/)
   
 - 💬 Languages: Spanish And English
   
