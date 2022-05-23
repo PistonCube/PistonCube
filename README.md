@@ -13,30 +13,15 @@ I'M JUANCITOCUBO, THAT OWNER, DEV AND YOUTUBER WHO MAKES VIDEOS ABOUT ANARCHY SE
 - 💬 Languages: Spanish And English
   
 - 📫 contacts:
-- Discord: 
-  >juancitocubo#0833
-  
-- Mail:
-  >support@juancitocubo.com 
-  
-- Youtube:
-  >[juancitocubo:](https://www.youtube.com/c/juancitocubo/) 
-  
-- Discord:
-  >[Discord | juancitocubo:](https://discord.gg/WB7ZeaChNw) 
-  
-- Donate:
-  >[Paypal](https://paypal.me/juancitocubo) 
-  
-- Instagram:
-  >[Instagram](https://www.instagram.com/juancitocubo/) 
-- Reddit:
-  >[Reddit](https://www.reddit.com/user/juancitocubo)
-- Steam:
-  >[Steam](https://steamcommunity.com/id/juancitocubo/)
-- Donate:
-  >[Paypal](https://paypal.me/juancitocubo)
-- Donate:
-  >[Paypal](https://paypal.me/juancitocubo)
+- Discord:  >juancitocubo#0833
+- Mail: >support@juancitocubo.com  
+- Youtube: >[juancitocubo:](https://www.youtube.com/c/juancitocubo/) 
+- Discord: >[Discord | juancitocubo:](https://discord.gg/WB7ZeaChNw) 
+- Donate: >[Paypal](https://paypal.me/juancitocubo) 
+- Instagram: >[Instagram](https://www.instagram.com/juancitocubo/) 
+- Reddit: >[Reddit](https://www.reddit.com/user/juancitocubo)
+- Steam: >[Steam](https://steamcommunity.com/id/juancitocubo/)
+- Donate: >[Paypal](https://paypal.me/juancitocubo)
+- Donate: >[Paypal](https://paypal.me/juancitocubo)
   
 -------------------------------------------------
