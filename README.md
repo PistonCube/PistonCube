@@ -22,6 +22,5 @@ I'M JUANCITOCUBO, THAT OWNER, DEV AND YOUTUBER WHO MAKES VIDEOS ABOUT ANARCHY SE
 - Reddit: >[Reddit](https://www.reddit.com/user/juancitocubo)
 - Steam: >[Steam](https://steamcommunity.com/id/juancitocubo/)
 - Donate: >[Paypal](https://paypal.me/juancitocubo)
-- Donate: >[Paypal](https://paypal.me/juancitocubo)
   
 -------------------------------------------------
