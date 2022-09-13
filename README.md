@@ -1,5 +1,5 @@
-<h1>Hi, my name is Ezequiel alias juancitocubo</h1>
-Hello! I am Ezequiel or better known as Juancitocubo, I am a 15 year old boy who lives in Argentina and makes videos on YouTube and is trying to grow on YouTube. I am currently interested in programming web pages. and trying to be a certified developer. I'm learning coding languages
+<h1>Hello! I am Ezequiel or better known as Juancitocubo</h1>
+I am a 15 year old boy who lives in Argentina and makes videos on YouTube and is trying to grow on YouTube. I am currently interested in programming web pages. and trying to be a certified developer. I'm learning coding languages
 
   <p> <img src="https://komarev.com/ghpvc/?username=juancitocubo" alt="juancitocubo" /> </p>
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancitocubo&layout=compact&theme=dark"></p>
