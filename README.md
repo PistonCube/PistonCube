@@ -15,11 +15,10 @@ I am a 15 year old boy who lives in Argentina and makes videos on YouTube and is
 			<b></b><img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></b>
 			<b></b><img  alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></b>
 			<div> 
-
-								<img src="https://komarev.com/ghpvc/?username=PistonCube" alt="PistonCube" />
-								<img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&theme=dark"></p>
-								<img align="center" src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight">
-								<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight">
+<img src="https://komarev.com/ghpvc/?username=PistonCube" alt="PistonCube" />
+<img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&theme=dark"></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight">
   
 - 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
 - 🌐 My Hosting: [https://client.juancitocubo.com/](https://client.juancitocubo.com/)
