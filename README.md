@@ -21,7 +21,7 @@ I am a 15 year old boy who lives in Argentina Buenos Aires who makes videos on Y
   
 - 💬 Languages: Spanish And English
   
-- 📫 contacts:
+- 📫 Contacts:
 - Discord:  > PistonCube#0001
 - Mail: > Mail@PistonCube.online  
 -------------------------------------------------
