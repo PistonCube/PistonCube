@@ -15,14 +15,15 @@ I am a 15 year old boy who lives in Argentina Buenos Aires who makes videos on Y
 					
 					
 					
-- 🌐 Website: [juancitocubo.com](https://juancitocubo.com/)
-- 🌐 My Hosting: [https://client.juancitocubo.com/](https://client.juancitocubo.com/)
+- 🌐 Website: [PistonCube.online](https://www.pistoncube.online/)
+- 🌐 My Bot: [DuckBot.fun](https://www.duckbot.fun)
+- 🌐 Free Hacks: [AnarchyDev.cf](https://www.anarchydev.cf/)
   
 - 💬 Languages: Spanish And English
   
 - 📫 contacts:
-- Discord:  >juancitocubo#0001
-- Mail: >support@juancitocubo.com  
+- Discord:  > PistonCube#0001
+- Mail: > Mail@PistonCube.online  
 -------------------------------------------------
 
 
