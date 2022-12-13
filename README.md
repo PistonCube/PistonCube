@@ -11,7 +11,7 @@ I am a 15 year old boy who lives in Argentina Buenos Aires who makes videos on Y
 					
 					
 - 🌐 Website: [PistonCube.online](https://www.pistoncube.online/)
-- 🌐 FileUpload: [FileUpload.es](https://www.fileupload.es/))
+- 🌐 FileUpload: [FileUpload.es](https://www.fileupload.es/)
 - 🌐 My Bot: [DuckBot.fun](https://www.duckbot.fun)
 - 🌐 Free Hacks: [AnarchyDev.cf](https://www.anarchydev.cf/)
   
