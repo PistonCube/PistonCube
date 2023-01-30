@@ -1,5 +1,9 @@
-<h1>Hello! I am Ezequiel or PistonCube or formerly known as juancitocubo</h1>
-I am a 16 year old boy who lives in Argentina Buenos Aires who makes videos on YouTube. I am currently interested in programming websites and discord bots. and trying to be a certified developer. I'm learning coding languages.
+		<h1>PistonCube</h1>
+		<h5>Hello! I'm Ezequiel or PistonCube or formerly known as juancitocubo 
+	<br> 
+	I'm a 16 year old little Programmer living in Argentina Buenos Aires 
+			<br>
+</h5>
 <div> </div>
 							</div>
 						</p>
