@@ -1,14 +1,20 @@
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div class="hero-container" data-aos="fade-in">
-      <h1>PistonCube</h1>
-        <p>I'm a Developer</p>
-    </div>
-  </section>
+<div align="center">
 
-<div class="section-title">
-          <h2>About</h2>
-          <p>Hello! I'm Ezequiel, also currently known as PistonCube, a passionate 16 year old self taught developer living in Buenos Aires, Argentina.
-            <br> 
-            I also love doing open source development, I actively maintain various Projects. It gives me a wonderful sense of accomplishment and joy that I can't put into words.
-                <br>
-              </p>
+### Hi there, I'm PistonCube 👋
+I'm a HTML5, CSS, JavaScript Developer.<br /><br/>
+  
+📫 My Discord: **PistonCube#0001**<br /><br/>
+- 📫 [PistonProyects](https://discord.gg/eKeeZPq6SJ)
+**🌐 Website: [Pistoncube.com.ar](https://www.pistoncube.com.ar/)**
+
+🔭 Currently working on:<br /><br />
+**🌐 FileUpload: [FileUpload.es](https://www.fileupload.es/)**<br /><br />
+**🌐 My Bot: [DuckBot.fun](https://www.duckbot.fun)**<br /><br />
+**🌐 Free Hacks: [AnarchyDev.cf](https://www.anarchydev.cf/)**
+  
+<img src="https://komarev.com/ghpvc/?username=PistonCube" alt="PistonCube" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=e200ff&icon_color=6c44ff&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=e200ff&icon_color=6c44ff&theme=midnight-purple">
+
+</div>
