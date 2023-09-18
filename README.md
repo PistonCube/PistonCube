@@ -9,9 +9,10 @@ I'm a HTML5, CSS, JavaScript Developer.<br /><br/>
 
 🔭 Currently working on:<br /><br />
 **🌐 2b2t argentina: [2b2t.com.ar](https://www.2b2t.com.ar)**<br /><br />
-**🌐 FileUpload: [FileUpload.es](https://www.fileupload.es/)**<br /><br />
-**🌐 My Bot: [DuckBot.fun](https://www.duckbot.fun)**<br /><br />
-**🌐 Free Hacks: [AnarchyDev.cf](https://www.anarchydev.cf/)**
+**🌐 PistonCubeBOT: [bot.pistoncube.com.ar](https://bot.pistoncube.com.ar/)**
+**🌐 FileUpload: [FileUpload.es](https://www.fileupload.es/) (Death)**<br /><br />
+**🌐 My Bot: [DuckBot.fun](https://www.duckbot.fun)** (Death)<br /><br />
+**🌐 Free Hacks: [AnarchyDev.cf](https://www.anarchydev.cf/) (Death)**
   
 <img src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=e200ff&icon_color=6c44ff&theme=midnight-purple">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=e200ff&icon_color=6c44ff&theme=midnight-purple">
