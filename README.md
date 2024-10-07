@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm PistonCube 👋
+### Hi there, I'm Ezequiel (PistonCube) 👋
 Full Stack Developer with DevOps Focus<br /><br/>
   
 📫 My Discord: **PistonCube#0001**<br /><br/>
