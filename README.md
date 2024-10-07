@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi there, I'm PistonCube 👋
-I'm a HTML5, CSS, JavaScript Developer.<br /><br/>
+Full Stack Developer with DevOps Focus<br /><br/>
   
 📫 My Discord: **PistonCube#0001**<br /><br/>
 📫 [PistonProyects](https://discord.gg/eKeeZPq6SJ)
