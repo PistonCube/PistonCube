@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Ezequiel (PistonCube) 👋
-### Full Stack Developer with DevOps Focus<br /><br/>
+### Full Stack Developer with DevOps Focus
 📫 My Discord: **PistonCube#0001**<br /><br/>
 📫 [PistonProyects](https://discord.gg/eKeeZPq6SJ)
 **🌐 Website: [Pistoncube.com.ar](https://www.pistoncube.com.ar/)**
