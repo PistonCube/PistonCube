@@ -3,7 +3,7 @@
 # Hi there, I'm Ezequiel (PistonCube) 👋
 ### Full Stack Developer with DevOps Focus
 📫 My Discord: **PistonCube#0001**<br /><br/>
-📫 [PistonProyects](https://discord.gg/eKeeZPq6SJ)
+📫 [PistonProjects](https://discord.gg/eKeeZPq6SJ)
 **🌐 Website: [Pistoncube.com.ar](https://www.pistoncube.com.ar/)**
 
 🔭 Currently working on:<br /><br />
