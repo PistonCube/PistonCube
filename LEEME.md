@@ -16,6 +16,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=00ff00&icon_color=008000&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=00ff00&icon_color=008000&theme=dark">
 
-<br />
 Si prefieres ver este README en inglés, puedes hacerlo [aca](https://github.com/PistonCube/PistonCube/blob/main/LEEME.md)
 </div>
