@@ -13,6 +13,22 @@
 **🤖 ZuruBot: [zuru.pistoncube.com.ar](https://zuru.pistoncube.com.ar/)** <br>
 **🤖 DinoTime: [dinotime.pistoncube.com.ar](https://dinotime.pistoncube.com.ar/)**
 
+<!-- Traducido automáticamente si el idioma es español -->
+<div lang="es">
+  # ¡Hola, soy Ezequiel (PistonCube) 👋
+  ### Desarrollador Full Stack con enfoque en DevOps
+  📫 Mi Discord: **PistonCube#0001**<br /><br/>
+  📫 [PistonProjects](https://discord.gg/eKeeZPq6SJ)
+  **🌐 Sitio web: [www.pistoncube.com.ar](https://www.pistoncube.com.ar/)**
+
+  🔭 Actualmente trabajando en:<br /><br />
+  **⛏️ MineArgento: [www.mineargento.com.ar](https://www.mineargento.com.ar/)**<br>
+  **⛏️ 2B2T ARGENTINA: [www.2b2t.net.ar](https://www.2b2t.net.ar/)**<br>
+  **🤖 PistonCubeBOT: [bot.pistoncube.com.ar](https://bot.pistoncube.com.ar/)**<br>
+  **🤖 ZuruBot: [zuru.pistoncube.com.ar](https://zuru.pistoncube.com.ar/)** <br>
+  **🤖 DinoTime: [dinotime.pistoncube.com.ar](https://dinotime.pistoncube.com.ar/)**
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=00ff00&icon_color=008000&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=00ff00&icon_color=008000&theme=dark">
 </div>
