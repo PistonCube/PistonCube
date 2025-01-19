@@ -3,7 +3,7 @@
 # ¡Hola, soy Ezequiel (PistonCube) :wave:
 ### Desarrollador Full Stack con enfoque en DevOps
 :mailbox: Mi Discord: **PistonCube#0001**<br /><br/>
-:mailbox: [PistonProjects](https://discord.gg/eKeeZPq6SJ)
+:mailbox: [PistonProjects](https://discordapp.com/invite/283JBXufXm)
 **:globe_with_meridians: Sitio web: [www.pistoncube.com.ar](https://www.pistoncube.com.ar/)**
 
 :telescope: Actualmente estoy trabajando en:<br /><br />
@@ -12,7 +12,7 @@
 **:robot: PistonCubeBOT: [bot.pistoncube.com.ar](https://bot.pistoncube.com.ar/)**<br>
 **:robot: ZuruBot: [zuru.pistoncube.com.ar](https://zuru.pistoncube.com.ar/)** <br>
 **:robot: DinoTime: [dinotime.pistoncube.com.ar](https://dinotime.pistoncube.com.ar/)**<br>
-**☁️ HidenCloud: [www.hidencloud.com.ar](https://discord.gg/5sgp2TW5mp)**<br>
+**☁️ HidenCloud: [www.hidencloud.com](https://discord.gg/5sgp2TW5mp)**<br>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=00ff00&icon_color=008000&theme=dark">
