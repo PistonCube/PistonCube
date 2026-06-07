@@ -12,8 +12,8 @@
 **:robot: ZuruBot: [zuru.pistoncube.com.ar](https://zuru.pistoncube.com.ar/)** <br>
 **:robot: DinoTime: [dinotime.pistoncube.com.ar](https://dinotime.pistoncube.com.ar/)**<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PistonCube&show_icons=true&text_color=00ff00&icon_color=008000&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=00ff00&icon_color=008000&theme=dark">
+<img src="https://github-stats-extended.vercel.app/api?username=PistonCube&show_icons=true&text_color=8b5cf6&icon_color=8b5cf6&theme=dark">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PistonCube&layout=compact&text_color=8b5cf6&icon_color=8b5cf6&theme=dark">
 
 If you prefer to see this README in Spanish, you can do so [here](https://github.com/PistonCube/PistonCube/blob/main/LEEME.md)
 </div>
