@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ezequiel (PistonCube) :wave:
 ### Full Stack Developer with DevOps Focus
-:mailbox: My Discord: **PistonCube#0001**<br /><br/>
+:mailbox: My Discord: <a href="https://discord.com/users/@pistoncube" target="_blank" rel="noopener"> @pistoncube</a><br /><br/>
 :mailbox: [PistonProjects](https://discordapp.com/invite/283JBXufXm)
 **:globe_with_meridians: Website: [www.pistoncube.com.ar](https://www.pistoncube.com.ar/)**
 
