@@ -2,12 +2,14 @@
 
 # ¡Hola, soy Ezequiel (PistonCube) :wave:
 ### Desarrollador Full Stack con enfoque en DevOps
-:mailbox: Mi Discord: **PistonCube#0001**<br /><br/>
+:mailbox:           <a href="https://discord.com/users/@pistoncube" target="_blank" rel="noopener"><i class="bi bi-discord"></i> @pistoncube</a><br /><br/>
 :mailbox: [PistonProjects](https://discordapp.com/invite/283JBXufXm)
 **:globe_with_meridians: Sitio web: [www.pistoncube.com.ar](https://www.pistoncube.com.ar/)**
 
 :telescope: Actualmente estoy trabajando en:<br /><br />
 **:pick: 2B2T ARGENTINA: [www.2b2t.net.ar](https://www.2b2t.net.ar/)**<br>
+**:radio: MetalRadio: [www.metalradio.com.ar](https://www.metalradio.com.ar/)**<br>
+**:radio: MetalRadio: [www.spawnshulker.com](https://www.spawnshulker.com/)**<br>
 **:robot: PistonCubeBOT: [bot.pistoncube.com.ar](https://bot.pistoncube.com.ar/)**<br>
 **:robot: ZuruBot: [zuru.pistoncube.com.ar](https://zuru.pistoncube.com.ar/)** <br>
 **:robot: DinoTime: [dinotime.pistoncube.com.ar](https://dinotime.pistoncube.com.ar/)**<br>
